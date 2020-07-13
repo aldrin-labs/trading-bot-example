@@ -5,8 +5,8 @@ Simple example of own trading bot running on your computer or own cloud, using C
 ### Installation
 
 ```
-$ git clone git@github.com:Cryptocurrencies-AI/trading-bot-example.git
-$ cd trading-bot
+$ git clone https://github.com/Cryptocurrencies-AI/trading-bot-example.git
+$ cd trading-bot-example
 $ pip3 install -r requirements.txt
 $ python3 trade.py
 ```
